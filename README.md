@@ -1,6 +1,6 @@
 ### Hello World, I'm Dmitry <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 26px>
 
-<img alt="Coding" width="300" src="https://cdn.dribbble.com/users/926537/screenshots/8768655/media/0eb8fcc9f2b8a55c589cfabd6cc89d94.gif">
+<img alt="Coding" width="400" src="https://cdn.dribbble.com/users/926537/screenshots/8768655/media/0eb8fcc9f2b8a55c589cfabd6cc89d94.gif">
 
 ## 📖 About me
 
