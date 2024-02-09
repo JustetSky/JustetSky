@@ -16,6 +16,7 @@
 
 ### Languages and Tools
 
+<code><a> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a></code>
 <code><a> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="java" width="40" height="40"/> </a></code>
 <code><a> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unity/unity-original.svg" alt="java" width="40" height="40"/> </a></code>
 <code><a> <img src ="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg" alt="github" width="40" height="40"/> </a></code>
