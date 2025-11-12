@@ -1,17 +1,14 @@
-### Hello World, I'm Dmitry <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 26>
+### Hello World, I'm Dmitry
 
-<img alt="CodingCat" width="400" height="300" src="images/cat_typing.gif" style="max-width: 100%; height: auto;">
+<div style="display: grid; place-items: center;">
+  <img alt="CodingCat" width="400" height="300" src="images/cat_typing.gif" style="max-width: 100%; height: auto;">
+</div>
 
 ## 📖 About me
 
 - 👀 Interested in **Software** and **Game Development**
 - 🌱 Currently studying to become a **programmer**
 - ☕ Learning **new** technologies to become **better**
-
-### 📫 Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="40">
-
-[![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/Justet)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:dimfisl33t@gmail.com)
 <br />
 
 ### Languages and Tools
