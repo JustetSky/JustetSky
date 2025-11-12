@@ -9,7 +9,6 @@
 - 👀 Interested in **Software** and **Game Development**
 - 🌱 Currently studying to become a **programmer**
 - ☕ Learning **new** technologies to become **better**
-<br />
 
 ### Languages and Tools
 
