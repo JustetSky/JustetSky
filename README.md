@@ -1,4 +1,4 @@
-# 👋🏻 Hello World, I'm Dmitry
+# Hello World, I'm Dmitry
 
 <img alt="CodingCat" width="400" height="300" src="images/cat_typing.gif" style="max-width: 100%; height: auto;">
 
