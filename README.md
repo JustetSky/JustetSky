@@ -10,7 +10,7 @@
 
 ### Languages and Tools
 
-<table border="0">
+<table>
   <tr>
     <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></td>
     <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="spring" width="40" height="40"/></td>
